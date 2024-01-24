@@ -69,6 +69,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>Demo${spring-framework.version}</finalName>
 	</build>
 
 </project>
